@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm just a girl in search of knowledge.
+I'm just a boy in search of knowledge.
 
 
 ## 🌐 Socials:
