@@ -18,7 +18,11 @@ worldw@naver.com
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=worldw521&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=worldw521&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=worldw521&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=worldw521&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=worldw521&theme=dracula&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=worldw521&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
