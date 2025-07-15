@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<a href="mailto:worldw@naver.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-worldw%40naver.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/></a>
-<a href="https://github.com/symoon521"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/></a>
+<a href="mailto:worldw@naver.com"><img src="https://img.shields.io/badge/Email-worldw@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/symoon521"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </div>
 
@@ -31,27 +31,27 @@ Technologies
 
 Back-End
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-%252314354C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-%252300C7B7.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white">
 
 Database
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQLite-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
 Data Streaming
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache%2520Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapache-kafka%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
 
 Front-End
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 DevOps & Cloud
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub%2520Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 
 Collaboration
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
 🚀 Featured Projects
 제가 직접 만들고 기여한 프로젝트들입니다.
@@ -61,6 +61,12 @@ Project
 Description
 
 Key Features
+
+🔧 unifi-ddns
+
+UniFi OS 환경에서 Cloudflare DDNS를 자동으로 갱신해주는 경량 스크립트입니다.
+
+JavaScript, Shell Script, IP 자동 감지, Cloudflare API v4
 
 🌱 [My Blog] (준비 중)
 
@@ -76,8 +82,8 @@ Kotlin, Spring WebFlux, Redis (Pub/Sub), WebSocket
 
 📈 My GitHub Stats
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsymoon521%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsymoon521%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=symoon521&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symoon521&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 🌱 My Learning Roadmap
@@ -93,6 +99,6 @@ Kotlin, Spring WebFlux, Redis (Pub/Sub), WebSocket
 <h3>📬 Contact Me</h3>
 <p>새로운 기회나 기술 이야기는 언제나 환영입니다. 편하게 연락 주세요!</p>
 <a href="mailto:worldw@naver.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Let%27s_Talk-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
+<img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </div>
