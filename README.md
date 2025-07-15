@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=symoon521.symoon521" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suyeong+Moon!+;A+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suyeong+Moon!;A+Backend+Developer" />
 </h1>
 
 <h3 align="center">Backend Development | Java | Python | Cloud | DevOps</h3>
@@ -54,5 +54,5 @@
 <hr/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+언제든지+편하게+연락주세요!;+협업+제안은+언제나+환영입니다+:)">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;언제든지+편하게+연락주세요!;협업+제안은+언제나+환영입니다+:)">
 </h3>
