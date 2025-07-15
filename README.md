@@ -1,91 +1,98 @@
-<h1 align="center">👋 안녕하세요! 저는 문수영입니다.</h1>
-<p align="center">끝없이 배우며 성장하는 개발자 | Java, Python, Web Backend, 그리고 Linux</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding gif">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding gif">
+<h1 align="center">👋 안녕하세요, 문수영입니다!</h1>
+<p align="center">
+<strong>코드로 문제를 해결하고, 꾸준한 학습으로 성장하는 백엔드 개발자입니다.</strong>
+<br />
+<em>더 나은 사용자 경험을 위한 견고하고 효율적인 백엔드 시스템을 구축하는 데 열정을 가지고 있습니다.</em>
+</p>
+
+<p align="center">
+<a href="mailto:worldw@naver.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-worldw%40naver.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/></a>
+<a href="https://github.com/symoon521"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Profile-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/></a>
+</p>
 </div>
 
----
+👨‍💻 About Me
+Backend-focused Developer: Java와 Python을 중심으로 안정적인 서버 애플리케이션 개발을 즐깁니다.
 
-## 💫 About Me
+Architecture Enthusiast: 단순히 기능을 구현하는 것을 넘어, 확장 가능하고 유지보수하기 좋은 웹 아키텍처를 고민하고 학습합니다.
 
-- 🎯 꾸준히 성장하는 주니어 개발자
-- 🔭 백엔드 위주의 프로젝트를 진행하며, 웹 아키텍처 전반에 관심이 많습니다
-- ☕ 커피 없이는 하루가 시작되지 않아요
-- 💌 연락은 언제든지: **worldw@naver.com**
+Proactive Learner: 새로운 기술을 배우고 적용하는 데 두려움이 없으며, 매일의 성장을 기록하고 공유하는 것을 좋아합니다.
 
----
+Coffee Lover: 좋은 커피 한 잔은 복잡한 문제를 해결할 최고의 동반자라고 믿습니다. ☕
 
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Gmail-worldw@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worldw@naver.com)
+🛠️ Tech Stack
+저의 개발 여정에 함께하고 있는 기술들입니다.
 
----
+Category
 
-## 💻 Tech Stack
+Technologies
 
-### ⚙️ Back-End  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+Back-End
 
-### 🖼 Front-End  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-%252314354C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-%252300C7B7.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite">
 
-### ☁️ DevOps & Cloud  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+Database
 
-### 📋 Collaboration  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQLite-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
+Data Streaming
 
----
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache%2520Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapache-kafka%26logoColor%3Dwhite">
 
-## 🚀 Featured Projects
+Front-End
 
-| 프로젝트 | 설명 |
-|----------|------|
-| 🔧 [unifi-ddns](https://github.com/symoon521/unifi-ddns) | Cloudflare DDNS 기능을 UniFi OS에 통합. JavaScript 기반 자동 IP 갱신 도구 |
-| 📦 Coming Soon... | Kotlin 기반 API 서버 / Spring Boot 프로젝트들 준비 중입니다! |
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite">
 
----
+DevOps & Cloud
 
-## 📈 GitHub Stats
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub%2520Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite">
 
+Collaboration
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite">
+
+🚀 Featured Projects
+제가 직접 만들고 기여한 프로젝트들입니다.
+
+Project
+
+Description
+
+Key Features
+
+🌱 [My Blog] (준비 중)
+
+학습한 내용을 기록하고 공유하기 위한 개인 기술 블로그입니다. Spring Boot와 JPA를 기반으로 직접 구축하고 있습니다.
+
+Java, Spring Boot, JPA, Thymeleaf, MySQL
+
+📦 [Toy Project] (구상 중)
+
+대용량 트래픽 처리를 경험해보기 위한 실시간 채팅 또는 알림 서비스 토이 프로젝트를 구상하고 있습니다.
+
+Kotlin, Spring WebFlux, Redis (Pub/Sub), WebSocket
+
+📈 My GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=symoon521&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symoon521&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsymoon521%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsymoon521%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
 </div>
 
----
+🌱 My Learning Roadmap
+현재 저는 이 기술들을 깊이 파고들며 다음 단계로 나아갈 준비를 하고 있습니다.
 
-## 📅 현재 학습 중인 기술
+[ ] Java & Spring Deep Dive: Spring의 핵심 원리(IoC, AOP)를 이해하고, 대규모 트래픽을 위한 성능 최적화를 학습합니다.
 
-- Java 중급 이상 활용 능력 키우는 중
-- 리눅스 네트워크 설정, Docker 및 배포 자동화 실습
-- Spring 기반 백엔드 구조 설계
+[ ] Mastering Linux & Docker: Linux 시스템과 네트워크에 대한 이해를 높이고, Docker를 활용한 애플리케이션 컨테이너화 및 배포 자동화에 익숙해집니다.
 
----
+[ ] Clean Architecture in Practice: 테스트 가능한 클린 아키텍처를 실제 프로젝트에 적용하며 설계 역량을 강화합니다.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<h3>📬 Contact Me</h3>
+<p>새로운 기회나 기술 이야기는 언제나 환영입니다. 편하게 연락 주세요!</p>
+<a href="mailto:worldw@naver.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Let%27s_Talk-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
+</a>
 </div>
-
----
-
-## 🤝 나와 협업하고 싶다면?
-> **Email**: [worldw@naver.com](mailto:worldw@naver.com)  
-> **GitHub**: [github.com/symoon521](https://github.com/symoon521)
-
----
-
